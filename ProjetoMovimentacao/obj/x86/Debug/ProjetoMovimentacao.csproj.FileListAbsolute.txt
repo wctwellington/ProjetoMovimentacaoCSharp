@@ -1,0 +1,16 @@
+C:\Users\Wellington Cruz\Documents\Visual Studio 2010\Projects\ProjetoMovimentacao\ProjetoMovimentacao\bin\Debug\ProjetoMovimentacao.exe
+C:\Users\Wellington Cruz\Documents\Visual Studio 2010\Projects\ProjetoMovimentacao\ProjetoMovimentacao\bin\Debug\ProjetoMovimentacao.pdb
+C:\Users\Wellington Cruz\Documents\Visual Studio 2010\Projects\ProjetoMovimentacao\ProjetoMovimentacao\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Wellington Cruz\Documents\Visual Studio 2010\Projects\ProjetoMovimentacao\ProjetoMovimentacao\obj\x86\Debug\ProjetoMovimentacao.formMovimentacao.resources
+C:\Users\Wellington Cruz\Documents\Visual Studio 2010\Projects\ProjetoMovimentacao\ProjetoMovimentacao\obj\x86\Debug\ProjetoMovimentacao.Properties.Resources.resources
+C:\Users\Wellington Cruz\Documents\Visual Studio 2010\Projects\ProjetoMovimentacao\ProjetoMovimentacao\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Wellington Cruz\Documents\Visual Studio 2010\Projects\ProjetoMovimentacao\ProjetoMovimentacao\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Wellington Cruz\Documents\Visual Studio 2010\Projects\ProjetoMovimentacao\ProjetoMovimentacao\obj\x86\Debug\ProjetoMovimentacao.exe
+C:\Users\Wellington Cruz\Documents\Visual Studio 2010\Projects\ProjetoMovimentacao\ProjetoMovimentacao\obj\x86\Debug\ProjetoMovimentacao.pdb
+C:\Users\Aluno_2\Documents\Visual Studio 2010\Projects\ProjetoMovimentacao\ProjetoMovimentacao\obj\x86\Debug\ProjetoMovimentacao.exe
+C:\Users\Aluno_2\Documents\Visual Studio 2010\Projects\ProjetoMovimentacao\ProjetoMovimentacao\obj\x86\Debug\ProjetoMovimentacao.pdb
+C:\Users\Aluno_2\Documents\Visual Studio 2010\Projects\ProjetoMovimentacao\ProjetoMovimentacao\bin\Debug\ProjetoMovimentacao.exe
+C:\Users\Aluno_2\Documents\Visual Studio 2010\Projects\ProjetoMovimentacao\ProjetoMovimentacao\bin\Debug\ProjetoMovimentacao.pdb
+C:\Users\Aluno_2\Documents\Visual Studio 2010\Projects\ProjetoMovimentacao\ProjetoMovimentacao\obj\x86\Debug\ProjetoMovimentacao.formMovimentacao.resources
+C:\Users\Aluno_2\Documents\Visual Studio 2010\Projects\ProjetoMovimentacao\ProjetoMovimentacao\obj\x86\Debug\ProjetoMovimentacao.Properties.Resources.resources
+C:\Users\Aluno_2\Documents\Visual Studio 2010\Projects\ProjetoMovimentacao\ProjetoMovimentacao\obj\x86\Debug\ProjetoMovimentacao.csproj.GenerateResource.Cache
